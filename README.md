@@ -1,3 +1,10 @@
+# Project goal
+* Remove all non-free parts
+* Include all open source modules in build
+* Accept contribution by anyone
+
+
+
 # VCV Rack
 
 *Rack* is the host application for the VCV virtual Eurorack modular synthesizer platform.
